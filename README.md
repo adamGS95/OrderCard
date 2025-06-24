@@ -4,7 +4,7 @@
 
 ## Статус сборки
 
-[![Build status](https://ci.appveyor.com/api/projects/status/o7ymhvlxbg329nb2?svg=true)](https://ci.appveyor.com/project/adamGS95/ordercard)
+[![Java CI with Gradle](https://github.com/adamGS95/OrderCard/actions/workflows/gradle.yml/badge.svg)](https://github.com/adamGS95/OrderCard/actions/workflows/gradle.yml)
 
 ## Запуск приложения
 
